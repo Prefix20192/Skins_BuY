@@ -71,7 +71,7 @@
 __Поддержать денюшкойй [QIWI](https://qiwi.com/n/PREFIX) 
 
 __ЛЮДИ КОТОРЫЕ ПОМОГЛИ В СОЗДАНИИ ЭТОГО МОДУЛЯ__
-- [DEATHSCORE](https://vk.com/deathscore13)
+- [GANTER1234](https://hlmod.ru/members/ganter1234.112782/)
 
 ***
 __Лицензию в .sp просьба не трогать__
